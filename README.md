@@ -9,7 +9,6 @@ This document provides an overview of the Mano Microprogram Computer, an impleme
 - [Architecture](#architecture)
 - [Microprogram for Control Memory](#microprogram-for-control-memory)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -39,14 +38,10 @@ To simulate the Microprogrammed Mano Computer, follow these steps:
 1. Clone the repository containing the project files.
 2. Open the project in Proteus or a similar simulation software.
 3. Run the simulation to observe the execution of microprogrammed instructions.
-
-## Pictures
-
-Here are some Gifs of the Microprogrammed Mano Computer Instructions:
+---
+![image](https://github.com/user-attachments/assets/ed8d415f-b8b9-4bfc-bd92-65f4214190fb)
 
 
-
-Feel free to explore the repository for more images and diagrams related to the Mano Computer.
 
 
 
